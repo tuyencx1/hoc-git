@@ -1,0 +1,12 @@
+vdsbsdfb
+rsfb zdfbn
+zdfbnfbdf
+Mỗi lần bạn commit, VS Code sẽ bắt buộc hiện nút async đúng như bạn nói:
+
+Lần 1: Commit
+
+Lần 2: Async → Push
+
+Không còn tình trạng commit xong mà không hiện async nữa.
+
+Nếu muốn mình kiểm tra giúp xem hiện tại setting của bạn đang bị để ở "none" hay "sync", bạn chụp ảnh màn hình Settings → Git: Post Commit Command gửi mình nhé
